@@ -1,5 +1,6 @@
 # world_clock
 This World Clock project shows real-time clocks for multiple time zones. Users can select cities and monitor current times across regions. It features real-time updates, customizable city options, and a responsive design. Ideal for global teams or travelers needing quick time zone references.
+
 🌍 World Clock - Time Zone Display
 The World Clock project is a simple and interactive web-based tool that displays the current time for various time zones across the globe. It's designed to help users easily track the time in multiple cities or regions, making it perfect for remote teams, travelers, or anyone needing to manage different time zones.
 
