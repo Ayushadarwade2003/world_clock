@@ -10,13 +10,16 @@ Select and customize cities or regions for your clock.
 Automatically updates the time in real-time.
 Simple and intuitive user interface.
 Responsive design for mobile and desktop devices.
+
 📦 Technologies Used
 HTML/CSS
 JavaScript
+
 🎯 Future Enhancements
 Adding support for daylight saving adjustments.
 User preferences to save selected time zones.
 Integration with APIs for dynamic city selection.
+
 🤝 Contributions
 Contributions, issues, and feature requests are welcome! Feel free to fork the project and submit a pull request.
 
